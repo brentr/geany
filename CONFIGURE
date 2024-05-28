@@ -1,0 +1,1 @@
+configure --disable-multiterm --disable-pretty-printer
